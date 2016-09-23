@@ -4,3 +4,5 @@ test
 本地测试方式:
 >>python27 manage.py runserver 
 
+views.py为后端函数，templates中的index.html是前段代码
+
